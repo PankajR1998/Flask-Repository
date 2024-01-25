@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# enviromnent
+flask_env/
 # C extensions
 *.so
 
